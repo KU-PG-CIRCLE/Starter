@@ -39,7 +39,7 @@ C言語でint型の変数の宣言を書ける様になりましたか？ 大学
 
 `class`(クラス) を実体化したものを `object`(オブジェクト) と言い、ややこしいのが実体化した `object`(オブジェクト)を`instance`(インスタンス) と呼びます。
 
-<details><summary>解説<summary>
+<details><summary>解説</summary>
   
 **違いなし！！**
 
