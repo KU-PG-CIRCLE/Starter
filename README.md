@@ -137,7 +137,7 @@ keyword : `package` `component`
 
 おまけ
 - COBOLは2002年まで関数が無かった
-- 構造化にはダイクストラ法で習うダイクストラさんの論文が大炎上して注目されました。[論文](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
+- 構造化はダイクストラ法で習うダイクストラさんの論文が大炎上して注目された [論文](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 
 keyword : `goto`
 
